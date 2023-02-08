@@ -32,6 +32,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/Ben/IdeaProjects/Classroom_Test",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
@@ -44,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1675839950271</updated>
       <workItem from="1675839952810" duration="654000" />
-      <workItem from="1675840679693" duration="1156000" />
+      <workItem from="1675840679693" duration="1545000" />
     </task>
     <task id="LOCAL-00001" summary="Erster Test">
       <created>1675840807853</created>
@@ -81,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675841788513</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Erster Test">
+      <created>1675842221306</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675842221306</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
